@@ -1,0 +1,247 @@
+
+#navh{
+    background-color: white;
+    font-size: 18px;
+    font-family: Inter,sans-serif;
+    color: black;
+    padding-left: 22px;
+ 
+}
+#navb{
+    color: blue;
+    font-size: 18px;
+    padding-left: 22px;
+}
+.bi{
+    font-size: 19px;
+}
+#navh:hover{
+    color: blue;
+}
+
+.part2{
+    background-color: blue;
+    
+
+}
+.anu h1{
+    font-size: 12px;
+    color: white;
+    font-weight: bold;
+}
+.anu span{
+    background-color: orange;
+    color: white;
+    border-radius: 80px;
+    font-size: 14px;
+    padding: 4px;
+   
+    font-style: italic;
+
+}
+.anu a{
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+}
+.d-heading h1{
+    width: 524px;
+    text-align: center;
+    margin-top: 24px;
+    margin-bottom: 0;
+    padding-left: 0;
+    line-height: 48px;
+
+    color: #183b56;
+    letter-spacing: -1px;
+    margin-top: -20px;
+    margin-bottom: 0;
+    font-family: sofia-pro,sans-serif;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 600;
+    
+  
+}
+.im-heading h1{
+    font-size: 18px;
+}
+.img-sy img{
+    width: 300px;
+}
+.img-sy1 img{
+    width: 180px;
+    margin-left: 20px;
+}
+.card-sh{
+    background-color: white;
+    border-radius: 10px;
+    width:0px,22px;
+   padding-left: 12px;
+  
+}
+.img1{
+    width: 90px;
+}
+
+.img2{
+    width: 90px;
+    
+}
+
+.card-sh1{
+  
+    background-color: white;
+    border-radius: 10px;
+    width:0px,22px;
+   padding-left: 12px;
+  
+}
+.card-p{
+    font-size: 12px;
+    background-color: lightblue;
+
+}
+.images img{
+    width: 150px;
+    height: 150px;
+    margin-left: 50px;
+}
+.images{
+    margin-left: 80px;
+}
+.bigboss{
+    width: 600px;
+    height: 200px;
+    background-color: rgba(173, 216, 230, 0.475);
+}
+.bigboss img{
+    margin-top: 30px;
+}
+.one img{
+    width: 150px;
+    height: 80px;
+    margin-left: 80px;
+    margin-top: 30px;
+}
+.boom{
+    width: 1520px;
+    height: 400px;
+    background-color: white;
+    border: 5px solid black;
+    padding-top: 20px;
+    margin-top: 50px;
+}
+.boom img{
+    width: 200px;
+    margin-left: 30px;
+    
+}
+.award{
+    width: 1520px;
+    height: 600px;
+    background-color: rgba(173, 216, 230, 0.718);
+}
+.footer{
+    width: 1520px;
+    height: 1100px;
+    background-color:cadetblue;
+}
+.for ul li a{
+    text-decoration: none;
+  color: black;
+   
+}
+.footer ul li {
+    list-style: none;
+    margin-left: 420px;
+    font-size: 20px;
+    margin-top: 20px;
+
+}
+.for ul li a:hover{
+    color: white;
+}
+.icon i{
+    font-size: 25px;
+    margin-left: 20px;
+}
+.icon{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.amb ul li a{
+    list-style: none;
+    text-decoration: none;
+   margin-top: 10px;
+   color: black;
+}
+.amb ul li{
+    margin-top: -10px;
+  
+}
+.amb ul{
+    margin-top: -50px;
+    margin-left: -100px;
+  
+}
+.amb ul li a:hover {
+    color: white;
+}
+.amb2 ul li a{
+    list-style: none;
+    text-decoration: none;
+   margin-top: 10px;
+   color: black;
+}
+.amb2 ul li{
+    margin-top: -10px;
+  
+}
+.amb2 ul{
+    margin-top: -90px;
+    margin-left: 200px;
+  
+}
+.amb2 ul li a:hover {
+    color: white;
+}
+.amb3 ul li a{
+    list-style: none;
+    text-decoration: none;
+   margin-top: 10px;
+   color: black;
+}
+.amb3 ul li{
+    margin-top: -10px;
+  
+}
+.amb3 ul{
+    margin-top: -90px;
+    margin-left: 500px;
+  
+}
+.amb3 ul li a:hover {
+    color: white;
+}
+.ambs h5:hover{
+    color: white;
+    text-decoration: none;
+}
+.whatsapp {
+    position: absolute;
+    position: fixed;
+    top: 460px;
+ margin-top: 150px;
+    margin-left: 1300px;
+border-radius: 15px;
+    background-color: rgb(51, 171, 51);
+    display: grid;
+    place-items: center;
+    display: flex;
+    padding: 3px 26px 3px 26px;
+    border-radius: 60px;
+}
+.icon i:hover{
+color: white;
+}
